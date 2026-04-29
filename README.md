@@ -57,4 +57,4 @@ Want to see how the engine handles queries like *"Recommend me a quiet, slice-of
 
 Explore the interactive evaluation pipeline live on Kaggle. **(No GPU or API keys required!)**
 
-🔗 **[Launch the Interactive Kaggle Showcase](YOUR_KAGGLE_NOTEBOOK_URL_HERE)**
+🔗 **[CLICK HERE to Launch the Interactive Kaggle Showcase](https://www.kaggle.com/code/naren2308/filmdb-recommendations-engine-showcase)**
