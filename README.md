@@ -9,6 +9,16 @@
 
 ---
 
+## 🚀 Explore the Showcase
+
+Want to see how the engine handles queries like *"Recommend me a quiet, slice-of-life story about a family in Tokyo"*?
+
+Explore the interactive evaluation pipeline live on Kaggle. **(No GPU or API keys required!)**
+
+🔗 **[CLICK HERE to Launch the Interactive Kaggle Showcase](https://www.kaggle.com/code/naren2308/filmdb-recommendations-engine-showcase)**
+
+---
+
 ## ⚙️ The 3-Stage RAG Pipeline
 
 Our architecture ensures ultra-fast candidate retrieval followed by deep semantic reasoning.
@@ -60,11 +70,3 @@ To validate the pipeline, we designed a **Retrieval Strategy Catalog** consistin
 Because the heavy GPU computation was completed in Phase 3, we built an interactive dashboard that runs entirely on **CPU**. By loading the `showcase_results.json` dataset, the Showcase notebook uses `ipywidgets` and `plotly` to render an interactive dropdown UI. Users can explore Head-to-Head pipeline comparisons, latency metrics, and reranker quality lift charts without needing an API key or GPU.
 
 ---
-
-## 🚀 Explore the Showcase
-
-Want to see how the engine handles queries like *"Recommend me a quiet, slice-of-life story about a family in Tokyo"*?
-
-Explore the interactive evaluation pipeline live on Kaggle. **(No GPU or API keys required!)**
-
-🔗 **[CLICK HERE to Launch the Interactive Kaggle Showcase](https://www.kaggle.com/code/naren2308/filmdb-recommendations-engine-showcase)**
